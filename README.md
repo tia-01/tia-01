@@ -1,5 +1,7 @@
-<h1 align="center">Hello, I'm Tia Bishwakarma</h1>
-<h3 align="center">A tech enthusiast</h3>
+<h1 align="left">Hello, I'm Tia Bishwakarma</h1>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=A+tech+enthusiast;A+student+of+IT;A+curious+learner)](https://git.io/typing-svg)
+
 
 - 🔭 I’m currently working on [Restaurant Billing and Management System Project](https://github.com/Project-IV-Team)
 
