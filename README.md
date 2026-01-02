@@ -7,7 +7,9 @@
 
 - 📖 I’m currently learning **Python, Django, ReactJS**
 
-- 👨‍💻 All of my projects are available at [tia.com.np](tia.com.np)
+<!--
+- 👨‍💻 All of my projects are available at [tia.com.np(tia.com.np) 
+-->
 
 - 📫 You can reach me through **tiatech01@gmail.com**
 
